@@ -1,0 +1,23 @@
+{
+    "time": {
+        "updated": "Oct 16, 2019 15:03:00 UTC",
+     },
+    "disclaimer": "This data was produced from the CoinDesk Bitcoin Price Index (USD). ",
+    "chartName": "Bitcoin",
+    "bpi": {
+        "USD": {
+            "code": "USD",
+            "symbol": "&#36;",
+            "rate": "7,968.2517",
+            "description": "United States Dollar",
+            "rate_float": 7968.2517
+        },
+             "EUR": {
+            "code": "EUR",
+            "symbol": "&euro;",
+            "rate": "7,209.3474",
+            "description": "Euro",
+            "rate_float": 7209.3474
+        }
+    }
+}
