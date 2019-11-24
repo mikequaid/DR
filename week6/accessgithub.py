@@ -9,7 +9,7 @@ url = 'https://api.github.com/repos/datarepresentationstudent/aPrivateOne'
 # copy request and paste in here:
 filename ="repo.json"
 
-# 'token' = username:
+# 'token' below in brackets is the username:
 response = requests.get(url, auth=('token',apiKey))
 
 repoJSON = response.json()
