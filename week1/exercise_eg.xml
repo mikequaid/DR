@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8?>
+# Start the library list
+<library_books>
+    # Add a category for Technical Books
+	<category name="Technical Books">
+    
+        <books>
+            <isbn>978-3-16-148410-0</isbn>
+			<title>Engineering_and_Automation</title>
+            <author>Mike_Quaid</author>
+        </books>
+        <books>
+		<isbn>978-3-16-148410-5</isbn>
+		<title>Engineering_and_IoT</title>
+		<author>Joe_Quaid</author>
+        </books>
+    </category>
+    # Add a category for Cookery Books
+    <category name="Cookery Books">
+	    <books>
+            <isbn>988-3-16-148410-8</isbn>
+			<title>Great_Italian_Dishes</title>
+            <author>Tara_Quaid</author>
+        </books>
+        <books>
+            <isbn>988-3-16-148410-9</isbn>
+			<title>Great_Irish_Dishes</title>
+            <author>Aine_Quaid</author>
+        </books>
+    </category>   
+</library_books>

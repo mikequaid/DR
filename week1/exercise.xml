@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<!--Mike Quaid GMIT Data Analytics,Data Representation,Exercise 1-->
+
+<Library>	
+		<Book>
+		   <Category>Technical Book</Category>	
+		   <ISBN>978-3-16-148410-0</ISBN>
+		   <Title>Engineering and Automation</Title>
+		   <Author>Mike Quaid</Author>
+		</Book>
+		<Book>
+		   <Category>Technical Book</Category>	
+		   <ISBN>978-3-16-148410-5</ISBN>
+		   <Title>Engineering and IoT</Title>
+		   <Author>Eilish O'Reilly</Author>
+		</Book>
+		<Book>
+		   <Category>Cookery Book</Category>	
+		   <ISBN>988-3-16-148410-8</ISBN>
+		   <Title>Great Italian Dishes</Title>
+		   <Author>Tom Keane</Author>
+		</Book>
+		<Book>
+		   <Category>Cookery Book</Category>	
+		   <ISBN>988-3-16-148410-9</ISBN>
+		   <Title>Great Irish Dishes</Title>
+		   <Author>Janet Cleary</Author>
+		</Book>
+</Library>

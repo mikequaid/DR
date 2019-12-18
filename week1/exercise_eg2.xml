@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<Library>
+	<Book category="Technical">
+		<ISBN>978-16172-944-3-3</ISBN>
+		<Title>Deep Learning With Python</Title>
+		<Author>Francois Chollet</Author>
+	</Book>
+	<Book category="Technical">
+		<ISBN>978-1-84882-913-8</ISBN>
+		<Title>Programming Languages: Principles and Paradigms</Title>
+		<Author>Maurizo Gabbrielli and Simone Martini</Author>
+	</Book>
+	<Book category="Cookery">
+		<ISBN>987-81-47367-42-57</ISBN>
+		<Title>Donal's Meals in Minutes</Title>
+		<Author>Donal Skehan</Author>
+	</Book>
+	<Book category="Cookery">
+		<ISBN>978-84-15541-49-3</ISBN>
+		<Title>15 Minute Meals</Title>
+		<Author>Jamie Oliver</Author>
+	</Book>
+</Library>
